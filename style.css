@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    margin: 0;
+    padding: 0px 5px;
+}
+
+.top {
+    position: fixed;
+    top: 10px;
+    width: 98%;
+}
+.mid {
+    position: absolute;
+    top: 30%;
+    width: 98%;
+    text-align: center;
+    padding: 0px 5px;
+    font-size: 15px;
+}
+
+.bot {
+    position: fixed;
+    bottom: 10px;
+    width: 98%;
+}
+
+    
+    
